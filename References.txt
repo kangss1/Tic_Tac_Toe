@@ -1,0 +1,18 @@
+Reference File
+
+Statement of Originality:
+I Sandeep kang declare that the source code is my original work and has been developed independently.
+
+References and Resources:
+The following resources have been referred to for gaining insights and technical support in the design, development, and debugging of this project:
+
+- PY2: https://cisjw.sitehost.iu.edu/py2/project/tictactoe.html
+- Python Documentation: https://docs.python.org/3/
+- Official Python Website: https://www.python.org
+- Google: https://www.google.com
+- GitHub: https://github.com
+	- https://gist.github.com/qianguigui1104/edb3b11b33c78e5894aad7908c773353
+	- https://gist.github.com/search?q=tic+tac+toe
+	- https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797 & https://gist.github.com/minism/1590432 (To add color to the print statement in your Python script using ANSI escape codes)
+- W3Schools Python Tutorial: https://www.w3schools.com/python/default.asp
+- GeeksforGeeks: https://www.geeksforgeeks.org
